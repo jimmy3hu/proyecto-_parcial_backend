@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "nombre": "aa",
+      "categoria": "aa",
+      "stock": 3,
+      "precioUnitario": 2,
+      "proveedor": "aa",
+      "fechaIngreso": "2025-07-04"
+    },
+    {
+      "nombre": "abrigo moderno",
+      "categoria": "chalequito",
+      "stock": 20,
+      "precioUnitario": 14,
+      "proveedor": "Denim Perú",
+      "fechaIngreso": "2025-07-06"
+    },
+    {
+      "nombre": "chompa sintetica",
+      "categoria": "Ropa de Invierno",
+      "stock": 20,
+      "precioUnitario": 10,
+      "proveedor": "Denim Perú",
+      "fechaIngreso": "2025-06-04"
+    },
+    {
+      "nombre": "chompa de alpaca natural",
+      "categoria": "Ropa de Invierno",
+      "proveedor": "Andina Textiles",
+      "stock": 11,
+      "precioUnitario": 34.5,
+      "fechaIngreso": "2025-06-10"
+    },
+    {
+      "nombre": "Chaleco térmico azul",
+      "categoria": "Ropa Deportiva",
+      "proveedor": "FitWear Perú",
+      "stock": 30,
+      "precioUnitario": 57,
+      "fechaIngreso": "2025-04-08"
+    },
+    {
+      "nombre": "Camisa lino beige",
+      "categoria": "Ropa Formal",
+      "proveedor": "Sastre Moderno",
+      "stock": 20,
+      "precioUnitario": 65,
+      "fechaIngreso": "2025-02-16"
+    },
+    {
+      "nombre": "Blusa ejecutiva manga corta",
+      "categoria": "Ropa de Oficina",
+      "proveedor": "Lima Fashion Co.",
+      "stock": 45,
+      "precioUnitario": 78,
+      "fechaIngreso": "2025-05-29"
+    },
+    {
+      "nombre": "Polera con capucha gris",
+      "categoria": "Ropa Urbana",
+      "proveedor": "UrbanStreet Perú",
+      "stock": 58,
+      "precioUnitario": 70,
+      "fechaIngreso": "2025-04-30"
+    },
+    {
+      "nombre": "Chompa trenzada vino tinto",
+      "categoria": "Ropa de Invierno",
+      "proveedor": "AlpacaCraft",
+      "stock": 56,
+      "precioUnitario": 65,
+      "fechaIngreso": "2025-05-29"
+    },
+    {
+      "nombre": "Abrigo impermeable negro",
+      "categoria": "Abrigos y Casacas",
+      "proveedor": "Montaña Viva",
+      "stock": 59,
+      "precioUnitario": 89,
+      "fechaIngreso": "2025-06-19"
+    },
+    {
+      "nombre": "Suéter cuello V marfil",
+      "categoria": "Ropa Casual",
+      "proveedor": "Eleganza Perú",
+      "stock": 40,
+      "precioUnitario": 45,
+      "fechaIngreso": "2025-05-07"
+    },
+    {
+      "nombre": "Casaca polar azul rey",
+      "categoria": "Abrigos y Casacas",
+      "proveedor": "TextiSur",
+      "stock": 38,
+      "precioUnitario": 52.9,
+      "fechaIngreso": "2025-05-07"
+    },
+    {
+      "nombre": "Parka urbana con capucha",
+      "categoria": "Ropa Urbana",
+      "proveedor": "ExploraWear",
+      "stock": 35,
+      "precioUnitario": 61.5,
+      "fechaIngreso": "2025-05-07"
+    },
+    {
+      "nombre": "Chompa estampado tribal",
+      "categoria": "Ropa Casual",
+      "proveedor": "Kuyay Moda",
+      "stock": 50,
+      "precioUnitario": 47,
+      "fechaIngreso": "2025-05-07"
+    },
+    {
+      "nombre": "Cardigan largo tejido andino",
+      "categoria": "Ropa Artesanal",
+      "proveedor": "Artesanos del Sur",
+      "stock": 56,
+      "precioUnitario": 80,
+      "fechaIngreso": "2025-05-07"
+    }
+  ]
+}
