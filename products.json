@@ -1,12 +1,20 @@
 {
   "products": [
     {
-      "nombre": "aa",
-      "categoria": "aa",
-      "stock": 3,
-      "precioUnitario": 2,
-      "proveedor": "aa",
-      "fechaIngreso": "2025-07-04"
+      "nombre": "chalina",
+      "categoria": "bufanda",
+      "stock": 14,
+      "precioUnitario": 18,
+      "proveedor": "Denim Perú",
+      "fechaIngreso": "2025-07-07"
+    },
+    {
+      "nombre": "polo",
+      "categoria": "de algodon",
+      "stock": 5,
+      "precioUnitario": 14,
+      "proveedor": "Denim ",
+      "fechaIngreso": "2025-07-07"
     },
     {
       "nombre": "abrigo moderno",
@@ -18,11 +26,11 @@
     },
     {
       "nombre": "chompa sintetica",
-      "categoria": "Ropa de Invierno",
-      "stock": 20,
-      "precioUnitario": 10,
-      "proveedor": "Denim Perú",
-      "fechaIngreso": "2025-06-04"
+      "categoria": "jeans",
+      "stock": 50,
+      "precioUnitario": 42,
+      "proveedor": "freen jeas",
+      "fechaIngreso": "2025-07-06"
     },
     {
       "nombre": "chompa de alpaca natural",
